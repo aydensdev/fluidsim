@@ -5,8 +5,8 @@ I have never used WebGPU before and a lot of the code comes from this example:
 
 https://www.wgsl.dev/editor?example=compute-boids
 
-This project is also heavily inspired by Sebastian Lague's video on fluid simulations.
-This is just the base for a future project, in which I would like to:
+The project is heavily inspired by Sebastian Lague's video on fluid simulations.
+It is also just the base for a future project, in which I would like to:
 
 - Add another dimension
 - Merge this project with my raytracer
