@@ -10,7 +10,7 @@ display.innerHTML =
 - Interact using both mouse buttons<br>
 - Try resizing the broswer window<br>
 <br>Visit the 
-<a href="https://github.com/aydensdev/raytracer" target="_blank">
+<a href="https://github.com/aydensdev/fluidsim" target="_blank">
 repository</a> for more info.
 `;
 
