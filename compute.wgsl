@@ -121,10 +121,6 @@ fn calculateDensity(index: u32)
 
 fn main(@builtin(global_invocation_id) GlobalInvocationID : vec3<u32>)
 {
-    // note: to make the particles compact-er 
-    // lower BOTH the mass and smoothing radius
-    // and then bring up the pressure mult
-
     var index = GlobalInvocationID.x;
     var vVel = particlesA.particles[index].vel;
     var originalPos = particlesA.particles[index].pos;
