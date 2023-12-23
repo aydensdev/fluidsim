@@ -5,7 +5,7 @@ I have never used WebGPU before and a lot of the code comes from this example:
 
 https://www.wgsl.dev/editor?example=compute-boids
 
-The project is heavily inspired by Sebastian Lague's video on fluid simulations.
+The project is heavily inspired by Sebastian Lague's video on fluid simulations.  
 It is also just the base for a future project, in which I would like to:
 
 - Add another dimension
